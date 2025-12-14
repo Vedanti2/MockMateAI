@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🤖 MockMate AI — AI-Powered Mock Interview Platform
 
-## Getting Started
+**MockMate AI** is a full-stack web application designed to help users prepare for job interviews through **AI-generated questions** and **real-time feedback**.  
+It simulates a realistic interview experience based on the user’s role, experience level, and job description.
 
-First, run the development server:
+🌐 Live Demo: https://mockmate-ai-phi.vercel.app
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Key Features
+- 🧠 AI-generated interview questions based on job role & experience
+- 🎤 Real-time mock interview experience
+- 📊 Personalized feedback on responses
+- 🖥️ Clean, responsive, and user-friendly UI
+- 🔁 Supports multiple interview attempts
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
+**Frontend**
+- React.js
+- HTML5, CSS3
 
-## Learn More
+**Backend**
+- Node.js
+- Express.js
 
-To learn more about Next.js, take a look at the following resources:
+**Database**
+- PostgreSQL
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**AI Integration**
+- Gemini API
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Tools**
+- Git, GitHub
+- Vercel
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Academic Context
+> This project was developed as an **academic project** by a **team of two**, focusing on full-stack development and AI integration for interview preparation.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🤝 Contributors
+- **Vedanti Pallawe** – Frontend Development, Backend APIs, AI Integration, UI/UX  
+- **Manasi Waykole** – Feature Support, Testing, Documentation  
+
+---
+
+## 🚀 Future Enhancements
+- Resume-based interview customization
+- Video & voice analysis
+- Detailed performance analytics
+- User authentication & user dashboard
+
+---
+
+
+✨ *Mock smarter. Improve faster. Interview better.*
